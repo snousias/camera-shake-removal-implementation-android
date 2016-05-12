@@ -1,0 +1,11 @@
+#ifndef DEBLUR_GLOBS_H
+#define DEBLUR_GLOBS_H
+bool maxkernelout;
+bool kernelmulkernel;
+bool equalize;
+bool kernelCrop;
+bool useOtsu;
+double kernelmulkernelfactor;
+string deconvmethod;
+int v2;
+#endif //DEBLUR_GLOBS_H

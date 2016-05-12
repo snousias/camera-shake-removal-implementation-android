@@ -1,0 +1,9 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle" >
+    <gradient
+        android:startColor="#81C784"
+        android:centerColor="#4CAF50"
+        android:endColor="#2E7D32"
+        android:type="linear"
+        android:angle="135"/>
+</shape><!-- From: file:/E:/Drive/_Master_Thesis/Master_Thesis_Final/ANDROID/deblur/openCVDeblur/src/main/res/drawable/side_nav_bar.xml -->
